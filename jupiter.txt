@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Jupiter is massive but gassy, maybe we could inhabit that planet if we wear gas masks?
-=======
-Jupiter is massive but gassy
->>>>>>> e08e0c81ab81678c2bce02ab3369e7db467fdca1
+Sounds good
